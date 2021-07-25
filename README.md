@@ -9,8 +9,4 @@
 
 🛠  Tech Stack
 - Python  Java  Django  Bootstrap
-- HTML  CSS  Git  NumPy  Pandas Storage Stoftware 
-
-📫   How to reach me:
-- https://www.linkedin.com/in/mukesh3/
-![LinkedIn Logo](/images/logo.png)
+- HTML  CSS  Git  NumPy  Pandas Distributed System/Stoftware 
