@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on open source projects 
 - 🌱  I'm on track for learning more about Artificial Intelligence            
 - ✍️  In my free time, I play football, workout, teach and pursue writing as my hobbies
-- 💬  Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
+- 💬  Feel free to reach out to me for general discussions on the aforementioned topics!
 
 🛠  Tech Stack
 - Python  Java  Django  Bootstrap
